@@ -3,6 +3,7 @@
 Curso git master mind 
 
 Comandos git:
+			
 	• git init 	Para inicializar git debemos correr el comando git init en nuestra terminal del proyecto.
 	• git status	Nos dice el estado actual del repositorio. 
 	• git add "nombre del archivo"	Pasara solo ese archivo al staging area
