@@ -10,7 +10,6 @@ Comandos git:
 	• git commit -m "mensaje"	Para subir el archivo a nuestro repositorio local
 	• git config --global user.email	Se utiliza el correo con el que esta vinculado github, si no usamos global la configuración será solo para el proyecto.
 	• git log	Se utiliza para ver los commits realizados, muestra el autor y la fecha del commit.
-	        
 	• git log --oneline 	Para ver el historial de commits en una sola linea
 	• git checkout (5 primeros dígitos del id del commit)	Nos permite navegar entre distintas versiones utilizando los dígitos del id del commit que obtenemos con git log. pero nos mantendrá en el estado de detached head lo que puede generar problemas en los siguientes commits
 	• git checkout main	Para volver a la rama main donde se realizo el ultimo commit y poder seguir realizando cambios.
